@@ -7,7 +7,7 @@
 - 👀 I'm proficient in using C#, ASP.NET CORE, TypeScript, Angular, Azure DevOp  etc in building backend applications<br/>
 - 🌱 I’m currently learning Solidity, GoLang and Flutter/Dart.<br/>
 - 💞️ I’m looking to collaborate on backend, fintech and  blockchain projects<br/>
-- 📫 You can reach me on m2hasmond@gmail.com
+- 📫 You can reach me on boyroberto2009@gmail.com
 
 <br/>
 
